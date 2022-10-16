@@ -8,6 +8,8 @@
 
 ![Mts GitHub stats](https://github-readme-stats.vercel.app/api?username=mtskawaii&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtskawaii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆 💻
 
 <div style="display: inline_block"></br>
@@ -17,9 +19,6 @@
 <img aling="center" alt"react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img aling="center" alt"pht" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 </div><br></div>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtskawaii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div align="center">
