@@ -1,5 +1,5 @@
 
-<img width="200px" aling="center" src="https://user-images.githubusercontent.com/114512003/196053123-5e5531d6-2067-4b80-8482-3e11b975b579.gif"/>
+<img width="150px"  src="https://user-images.githubusercontent.com/114512003/196052680-fc748b31-8f18-4785-bc87-20510f4ea9cb.gif"/>
 
 
 
@@ -33,8 +33,8 @@
   
 </div>
 
-<div align="center"  width="200px">
+<div align="center" >
 
-![makima](https://user-images.githubusercontent.com/114512003/196052680-fc748b31-8f18-4785-bc87-20510f4ea9cb.gif)
+
 
 </div>
