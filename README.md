@@ -1,6 +1,6 @@
 
-
-### 𝗢𝗹𝗮! 𝗠𝗲 𝗰𝗵𝗮𝗺𝗼 𝗠𝗮𝗿𝗰𝗲𝗹 (𝗠𝘁𝘀) 𝗗𝗶𝗻𝗶𝘇 ⛄️
+<div align="center">
+𝗢𝗹𝗮! 𝗠𝗲 𝗰𝗵𝗮𝗺𝗼 𝗠𝗮𝗿𝗰𝗲𝗹 (𝗠𝘁𝘀) 𝗗𝗶𝗻𝗶𝘇 ⛄️
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcel-diniz-06b08a248/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/plug.marcel/)
@@ -16,18 +16,14 @@
 <img aling="center" alt"js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img aling="center" alt"react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img aling="center" alt"pht" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-</div><br>
+</div><br></div>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtskawaii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <div align="center">
 
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-
-<div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
-</div>
-
