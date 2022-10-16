@@ -1,9 +1,10 @@
 
-<img width="150px"  src="https://user-images.githubusercontent.com/114512003/196052680-fc748b31-8f18-4785-bc87-20510f4ea9cb.gif"/>
+
 
 
 
 <div align="center">
+<img width="150px"  src="https://user-images.githubusercontent.com/114512003/196052680-fc748b31-8f18-4785-bc87-20510f4ea9cb.gif"/><br>
 𝗢𝗹𝗮! 𝗠𝗲 𝗰𝗵𝗮𝗺𝗼 𝗠𝗮𝗿𝗰𝗲𝗹 (𝗠𝘁𝘀) 𝗗𝗶𝗻𝗶𝘇 ⛄️
 
 
