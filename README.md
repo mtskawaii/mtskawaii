@@ -1,4 +1,6 @@
 
+
+
 <div align="center">
 𝗢𝗹𝗮! 𝗠𝗲 𝗰𝗵𝗮𝗺𝗼 𝗠𝗮𝗿𝗰𝗲𝗹 (𝗠𝘁𝘀) 𝗗𝗶𝗻𝗶𝘇 ⛄️
 
@@ -27,4 +29,10 @@
 
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
+</div>
+
+<div align="center">
+
+![makima](https://user-images.githubusercontent.com/114512003/196052680-fc748b31-8f18-4785-bc87-20510f4ea9cb.gif)
+
 </div>
